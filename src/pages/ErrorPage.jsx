@@ -8,7 +8,7 @@ const ErrorPage = () => {
 
   const handleBackHome = () => {
     // history.push('/'); // Navigate to the home page
-    home('/')
+    home('/adminconsole')
   };
 
   return (
